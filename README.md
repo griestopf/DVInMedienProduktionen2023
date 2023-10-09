@@ -21,7 +21,7 @@ Ziele
 
 Recherche: Überblick über existierende Projekte, Tools und -Kategorien 
 
-#### Treffen 1
+#### Treffen 1 (23. Oktober 23)
 
 Alle: Rechercheergebnisse über 
 
@@ -41,13 +41,14 @@ Alle: Rechercheergebnisse über
 
 Gemeinsame Auswahl von Kategorien und Tools, die für uns nutzbar sind.
 
+_________________________
 
 ### Phase 2
 
 Einarbeitung in Tools der engeren Auswahl. Erste Versuche, Tools miteinander zu kombinieren. Erste kleine (Teil-)Projekte
 
 
-#### Treffen 2
+#### Treffen 2 (06. November 23)
 
 Alle: Ergebnisse der Einarbeitung
 
@@ -63,6 +64,8 @@ Gruppenaufteilung
 
 Anlegen einer Aufgaben-Tool-Matrix. Eintragen der im Treffen zusammengetragenen Erkenntnisse. Zusammenfinden in Kleingruppen
 
+_________________________
+
 ### Phase 3
 
 Projektarbeit: KI-basierter "Film". Wenn möglich Bezug zu Furtwangen und mit Potenzial, viral zu gehen.
@@ -70,16 +73,16 @@ Projektarbeit: KI-basierter "Film". Wenn möglich Bezug zu Furtwangen und mit Po
 Möglichst ohne Real-Footage und ohne / mit wenig "klassischem" 3D-CGI
 Einsatz von KI-Tools an zentralen Stellen
 
-#### Treffen 3
+#### Treffen 3 (13. November 23)
 
 - Vorstellen der Projektidee, der einzusetzenden Tools, der angedachten Vorgehensweise und der Arbeitsaufteilung in der Gruppe
 
-#### Treffen 4
+#### Treffen 4 (27. November 23)
 
 - Zwischenstand, Probleme, Lösungen
 - Preview einzelner Teil-Ergebnisse
 
-#### Treffen 5
+#### Treffen 5 (11. Dezember 23)
 
 - Vorstellung erreichter Stand, muss nicht final sein
 - Reflexion der Arbeit: Lief nach Plan / Lief aus dem Ruder
@@ -89,17 +92,19 @@ Einsatz von KI-Tools an zentralen Stellen
 
 Wissen, wie eine Projektarbeit zur KI-basierten Generierung eines Films laufen muss. Ggf. Basismaterial, mit der Phase 4 gestartet werden kann.
 
+_________________________
+
 ### Phase 4
 
 Projektarbeit: Fortführung oder Neubeginn der Phase 3. Zusätzlich Kurzes Making-Of (= Abschlusspräsentation)
 
-#### Treffen 6
+#### Treffen 6 (15. Januar 24)
 
 - Zwischenstand, Probleme, Lösungen
 - Preview einzelner Teil-Ergebnisse
 
 
-#### Treffen 7
+#### Treffen 7 (29. Januar 24)
 
 - Abschlusspräsentation
 - Präsesentation der Ergebnissse
