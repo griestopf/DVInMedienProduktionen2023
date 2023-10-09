@@ -5,7 +5,14 @@ Thema Wintersemester 2023/24:
 KI in der Filmproduktion.
 
 
+Ziele
 
+- Analyse bestehender Ansätze
+- Systematisierung verwendeter und mögicher Techniken
+- Zusammentragen und Analysieren von Tools, die eingesetzt werden können
+- Übersicht und Einarbeitung bestehender KI-Tools 
+- Erstellen und Evaluieren von Workflows
+- Eigener KI-basierter Film
 
 
 ## Semesterfahrplan
