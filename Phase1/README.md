@@ -28,15 +28,40 @@ Ergebnisse Phase 1
 ## Adobe Firefly (1)
 
 - Text-to-image
+- Pros: Bilder als Prompts; viele Parameter
+- Cons: unrealistisch, besonders Menschen; Prompts nicht alle umgesetzt
+- Preis: kostenlos (noch?)
+
+## BING Image Creator (1)
+
+- Text-to-image
+- Cons: Quadratische Bilder, lange Wartezeit
+- Preis: KOSTENLOS
+
+## Bluewillow (1)
+
+- Text-to-image
+- Pros: Einfach anzuwenden
+- Preis: Testversion kostenlos, danach 5 USD / Monat
+
+## Lexica Art (1)
+
+- Text-to-image / Outpainting
+- Pros: hohe Qualität
+- Preis: 8 USD / Monat
+
 
 ## LeiaPix (1)
 
 - Image to Parallax Animation
 
 
-## PikaLabs (1)
+## PikaLabs (2)
 
-- Turn Image into Animation
+- Image-to-Video: Turn Image into Animation
+- Pros: Mit Prompts mehr Kontrolle über Ergebnis
+- Cons: Geringe Qualität, nicht realistisch
+- Preis: Kostenlos mit Wasserzeichen
 
 
 ## instaVerse (1)
@@ -47,10 +72,21 @@ Ergebnisse Phase 1
 
 - Prompt to Video
 
+
+## Runway Gen 2 (1)
+
+- Image-to-Video
+- Pros: Realistische Ergebnisse
+- Cons: Wenig Kontrolle über Ergebnis
+- Preis: Testversion, ab 12 USD / Monat
+
 ## Kaiber (1)
 
 - Prompt / Image to Video
 - Alternative zu Runway Gen-2
+
+
+
 
 ## Animated Drawings (1)
 
@@ -108,5 +144,5 @@ Ergebnisse Phase 1
 - [10 Best AI 3D Object Generators](https://www.unite.ai/best-ai-3d-object-generators/)
   - October 2023
 
-- Blender Add-On: Ai Render - Stable Diffusion In Blender](https://blendermarket.com/products/ai-render)
+- Blender Add-On: [Ai Render - Stable Diffusion In Blender](https://blendermarket.com/products/ai-render)
 
