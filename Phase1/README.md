@@ -132,9 +132,30 @@ Ergebnisse Phase 1
 
 ### The Frost
 
-- Short-Film 12 M; Dall-E 2; 
+- Short-Film 12 M; 
+- Tools: Dall-E 2; D-ID; Bewegungen mit Mixamo 3D-Characteren
+- Schwierigkeiten laut Team, die aber später gut gelungen sind:
+  - Kontinuität und einheitlicher Look
+  - Balance finden zwischen künstlerischer Freiheit innerhalb von Dall-E 2 und präzisen Vorgaben zu Objektivtyp, Kameraposition und Regieanweisungen
+  - Inpainting mit Dall-E
+- Gut gelungen: 
+  - Cinematic Look
+  - Stimmung
+  - Kombination von Handlung, Look und Sound
+  - Lip-Sync so lala, aber vermutlich gut für K.I.
+- Sonstiges
+  - Erstellt von 7 Leuten (Director, Editor, Production Design, Dalle artists, animator)
+  - mehrere 100 Std. Aufwand
+  - Outpainting und Inpainting mit Dall-E
+  - Comic-artiger Aufbau
+  - Referenzen Key für Generierung der Bilder
 
+### The Carnival of the Ages
 
+- Mini-Film 1:33
+- Tools: Image: Dall E+ Midjourney; Video: Runway gen2; Sound: Elevenlabs
+
+###
 
 ## AI & 3D
 
