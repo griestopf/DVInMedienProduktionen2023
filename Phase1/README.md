@@ -4,101 +4,206 @@ Ergebnisse Phase 1
 # Untersuchte Tools
 
 
-## Midjourney (1)
+## Midjourney (4)
 
 - Text-to-Image
 - Pros: Bilder als Prompts, hohe Qualität, eigene Seiternverhältnisse; viele Parameter
 - Cons: Kompliziert anzuwenden; Generierung dauert lange
 - Preis: 8USD/Monat
+- Sonstiges
+  - Midjourney erzeugt bessere Ergebnisse (gerade, wenn "cinematic" das Ziel ist) als Stable Diffusion
+  - läuft nur online über Discord
 
-## Stabele Diffusion (1)
+## Stable Diffusion (3)
 
 - Text-to-image
 - Pros: Hohe Qualität mit "Negative Prompts", viele Parameter
 - Cons: Kompliziert anzuwenden; Lange Wartezeit
 - Preis: KOSTENLOS
+- Sonstiges
+  - Sehr vielseitiges Bildgenerierungs-Tool. 
+  - Open-Source ist (?), 
+  - einzige limitierenden Faktoren 
+    - die Hardwarekapazität 
+    - verfügbare Modelle. 
 
-## Dall-E3 (1)
+## [Dall-E3](https://labs.openai.com) (3)
 
 - Text-to-Image
 - Pros: Bilder einfach zu verschmelzen; Anwendung leicht
 - Cons: Bilder simpel, nicht sehr akkurat, nur quadratisch
 - Preis: 50 Credits kostenlos, danach 115 credits für 15 USD
 
-## Adobe Firefly (1)
+## [Adobe Firefly](https://firefly.adobe.com) (3)
 
-- Text-to-image
+- Text-to-Image
 - Pros: Bilder als Prompts; viele Parameter
 - Cons: unrealistisch, besonders Menschen; Prompts nicht alle umgesetzt
 - Preis: kostenlos (noch?)
 
-## BING Image Creator (1)
+## [Canva AI](https://www.canva.com) (1)
+
+- Text-to-Image
+- Einfach zu bedienen
+- Preis: KOSTENLOS
+
+## [Deep Dream Generator](https://deepdreamgenerator.com) (1)
+
+- Text-to-Image
+- Einfach zu bedienen
+- Preis: Begrenzte Anzahl kostenloser Credits, Refill
+
+## [Playground](https://playgroundai.com/) (1)
+
+- Text-to-Image
+- Einfach zu bedienen
+
+## [starryai](https://starryai.com) (1)
+
+- Text-to-Image
+- Einfach zu bedienen
+- Preis: Begrenzte Anzahl kostenloser Credits, Refill
+
+
+## BING Image Creator (2)
 
 - Text-to-image
 - Cons: Quadratische Bilder, lange Wartezeit
 - Preis: KOSTENLOS
 
-## Bluewillow (1)
+## Bluewillow (2)
 
 - Text-to-image
 - Pros: Einfach anzuwenden
 - Preis: Testversion kostenlos, danach 5 USD / Monat
 
-## Lexica Art (1)
+## Lexica Art (2)
 
 - Text-to-image / Outpainting
 - Pros: hohe Qualität
 - Preis: 8 USD / Monat
 
+## [Leonardo AI](https://leonardo.ai) (2) 
 
-## LeiaPix (1)
+- Bildeverfeinerung, Hochskalieren
+- Eigene KI-Modelle trainieren
+- 3D-Modelle texturieren
+- Preis: Kostenlos, limitiert auf 150 Tokens / Tag, bei 20 Tokens pro Bildgenerierung
 
-- Image to Parallax Animation
+
+## [LeiaPix](https://convert.leiapix.com) (2)
+
+- Image-to-Video (Parallax Animation)
+- Einfach zu bedienen
+- Preis: KOSTENLOS
 
 
-## PikaLabs (2)
+## [Deforum AI](https://deforum.art) (2)
+
+- Image-to-Video
+- einfach zu bedienen
+- Preis: KOSTENLOS
+
+## [PikaLabs](https://www.pika.art) (5)
 
 - Image-to-Video: Turn Image into Animation
 - Pros: Mit Prompts mehr Kontrolle über Ergebnis
 - Cons: Geringe Qualität, nicht realistisch
 - Preis: Kostenlos mit Wasserzeichen
-
+- Sonstiges
+  - Bei Verwendung mit zusätzlichem Prompt produziert es gute Ergebnisse 
+  - Verschiedene Aspect-Ratios möglich
+  - Die Videoerzeugung ist auf 3sek begrenzt. Kontinuität kann aber durch Aneinanderreihung 
+  mehrerer Clips (die durch den jeweilig letzten Frame generiert wurden) kann erreicht werden. 
+  - Zugriff über Discord
 
 ## instaVerse (1)
 
 - Image to immmersive 3D environment
 
-## genmo (1)
+## [genmo](https://www.genmo.ai) (2)
 
-- Prompt to Video
+- Prompt-to-Video
+- **Prompt-to-3D-Model !!!**
+- Einfach zu bedienen
+- to-Video: limitiert auf 2 Sekunden
+- Preis: KOSTENLOS
 
 
-## Runway Gen 2 (1)
+## [Runway Gen-2](https://app.runwayml.com) (2)
 
-- Image-to-Video
+- Image/Text-to-Video
 - Pros: Realistische Ergebnisse
 - Cons: Wenig Kontrolle über Ergebnis
 - Preis: Testversion, ab 12 USD / Monat
 
-## Kaiber (1)
+
+## [D-ID](https://studio.d-id.com) (2)
+
+- Image/Text-to-Video (Avatar-generator: Sprechende Präsentatoren)
+- Vorauswahl aus bestehender Präsentatorenliste oder Vorlage von Stable-Diffusion für Präsentator
+- Preis: 5 Min. Video / Monat KOSTENLOS, 4,70 - 108 USD/Monat für mehr
+
+
+## [HeyGen](https://app.heygen.com) (2)
+
+- Text-to-Video (speaking avatar generation)
+- Mittelschwer zu bedienen
+- Preis: KOSTENLOS
+
+## [Synthesia](https://www.synthesia.io) (1)
+
+- Text-to-Video (speaking avatar generation)
+- Mittelschwer zu bedienen
+- Preis: KOSTENLOS
+
+
+## [Kaiber](https://kaiber.ai) (2)
 
 - Prompt / Image to Video
 - Alternative zu Runway Gen-2
+- Preis: 7 Tage kostenlos
 
 
 
+## [Mubert](https://mubert.com) (1)
+
+- Text-to-Music
+- Einfach zu bedienen
+- Preis: KOSTENLOS
+
+
+## [MyEdit Soundeffect](https://myedit.online/de/audio-editor/ai-sound-effect-generator) (1)
+
+- Text-to-Music
+- Einfach zu bedienen
+- Preis: KOSTENLOS
+
+
+## [Beatoven](https://www.beatoven.ai/) (1)
+
+- Text-to-Music
+- Einfach zu bedienen
+- Preis: KOSTENLOS
+
+
+## [MusicGen](https://huggingface.co/spaces/facebook/MusicGen) von Meta auf Hugging Face (2)
+
+- Audio(Melody)&Text-to-Music
+- konnte mit einem MP4 Prompt (Audio to Audio) + Text Prompt einen zur Stimmung passenden 15sek Song generieren.
+- Einfach zu bedienen
+- Preis: KOSTENLOS
+
+
+## [Adobe Podcast](https://podcast.adobe.com) (1)
+
+- Audio Enhancement
+- Preis: KOSTENLOS
+- Audiomaterial muss vorhanden sein
 
 ## Animated Drawings (1)
 
 - Drawing/Image to goofy animation 
-
-## D-ID (1)
-
-- Text to speaking avatar
-
-## HeyGen (1)
-
-- Text to speaking avatar
 
 ## SadTalker (1)
 
@@ -119,13 +224,18 @@ Ergebnisse Phase 1
 
 - Removing Compression Artifacts
 
-
+--------------------------------------------------
 
 # Ressourcen
 
 ## Tutorials
 
 - Videotutorial deutsch [Film mit KI erstellt: Unfassbare AI Video Tools!](https://www.youtube.com/watch?v=5kBxR-kliXc)
+
+- Videotutorial englisch [How to use Stable Diffusion. Stable Diffusion for Beginners](https://www.youtube.com/watch?v=nJlHJZo66UA)
+
+- Videotutorial englisch [Intro to LoRA Models: What, Where, and How with Stable Diffusion](https://www.youtube.com/watch?v=ZHVdNeHZPdc)
+  - LoRA (Low-Rank Adaptation) is a training technique for fine-tuning Stable Diffusion models
 
 
 ## Beispielprojekte
@@ -155,7 +265,50 @@ Ergebnisse Phase 1
 - Mini-Film 1:33
 - Tools: Image: Dall E+ Midjourney; Video: Runway gen2; Sound: Elevenlabs
 
-###
+### McDonald's AI generated
+
+- Werbung
+- Schwierigkeiten: Verwirrend viel Bewegung, hektisch
+
+### Pizza Hut "Authentic Italian Pizza" TV-Ad
+
+- Werbung
+- Tools: Midjourney
+- Sehr gute Lipsync
+- sehr realistische Darstellung
+- aus den Kommentaren: Finally an AI generated commercial that doesn't look awkward and creepy!
+
+### Invasion
+
+- Movie Trailer
+- Tools: Pika Labs
+- Natürliche Bewegungen
+
+### Cursed Heidi
+
+- Movie Trailer
+- Tools: Runway gen 2
+- Negativ-Beispiel: Creepy, Uncanny
+
+### Canvas (Resonate) Musikvideo
+
+- Musikvideo
+- Tools
+  - VQGAN+CLIP (alt?)
+  - Disco Diffusion v5.2 (für den Endless Camera Shot und durchgängige Generierung)
+- Besonderheiten
+  - Kameraschwenks im Rhythmus der Musik
+  - greift stilistisch Canvas Topic auf
+
+
+### Echoes (Pink Floyd ) Musikvideo
+
+- Tools
+  - Deforum AI
+- Besonderheiten
+  - Image Altering step by step to create new picture content
+  - Infinite Animation
+
 
 ## AI & 3D
 
