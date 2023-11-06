@@ -130,12 +130,13 @@ Ergebnisse Phase 1
 - Preis: KOSTENLOS
 
 
-## [Runway Gen-2](https://app.runwayml.com) (2)
+## [Runway Gen-2 (und 1)](https://app.runwayml.com) (2)
 
-- Image/Text-to-Video
+- Image/Text-to-Video (Gen-2)
+- Video-to-Video (Gen-1)
 - Pros: Realistische Ergebnisse
 - Cons: Wenig Kontrolle über Ergebnis
-- Preis: Testversion, ab 12 USD / Monat
+- Preis: Testversion, max. 4 sec, ab 12 USD / Monat
 
 
 ## [D-ID](https://studio.d-id.com) (2)
@@ -195,11 +196,34 @@ Ergebnisse Phase 1
 - Preis: KOSTENLOS
 
 
+## [Eleven Labsa](https://elevenlabs.io) (2)
+
+- Text-to-Voice
+- Einfach zu bedienen
+- Preis: KOSTENLOS
+
+
+## [PlayHT](https://play.ht) (2)
+ 
+- Text-to-Voice
+- Einfach zu bedienen
+- Preis: KOSTENLOS
+
+
+## [Amazon Polly](https://aws.amazon.com/de/polly) (1)
+
+- Text-to-Voice
+- Einfach zu bedienen
+- Preis: KOSTENLOS
+
+
 ## [Adobe Podcast](https://podcast.adobe.com) (1)
 
 - Audio Enhancement
 - Preis: KOSTENLOS
 - Audiomaterial muss vorhanden sein
+
+
 
 ## Animated Drawings (1)
 
@@ -208,11 +232,6 @@ Ergebnisse Phase 1
 ## SadTalker (1)
 
 - Text to speaking avatar
-
-
-## PlayT (1)
- 
-- Text to speech
 
 
 ## Descript (1)
