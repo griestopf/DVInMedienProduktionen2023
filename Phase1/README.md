@@ -4,7 +4,7 @@ Ergebnisse Phase 1
 # Untersuchte Tools
 
 
-## Midjourney (4)
+## [Midjourney](https://www.midjourney.com/) (4)
 
 - Text-to-Image
 - Pros: Bilder als Prompts, hohe Qualität, eigene Seiternverhältnisse; viele Parameter
@@ -14,7 +14,7 @@ Ergebnisse Phase 1
   - Midjourney erzeugt bessere Ergebnisse (gerade, wenn "cinematic" das Ziel ist) als Stable Diffusion
   - läuft nur online über Discord
 
-## Stable Diffusion (3)
+## [Stable Diffusion](https://stablediffusionweb.com/WebUI) (3)
 
 - Text-to-image
 - Pros: Hohe Qualität mit "Negative Prompts", viele Parameter
@@ -65,19 +65,19 @@ Ergebnisse Phase 1
 - Preis: Begrenzte Anzahl kostenloser Credits, Refill
 
 
-## BING Image Creator (2)
+## [BING Image Creator](https://www.bing.com/create) (2)
 
 - Text-to-image
 - Cons: Quadratische Bilder, lange Wartezeit
 - Preis: KOSTENLOS
 
-## Bluewillow (2)
+## [BlueWillow](https://www.bluewillow.ai/) (2)
 
 - Text-to-image
 - Pros: Einfach anzuwenden
 - Preis: Testversion kostenlos, danach 5 USD / Monat
 
-## Lexica Art (2)
+## [Lexica Art Aperture](https://lexica.art/aperture) (2)
 
 - Text-to-image / Outpainting
 - Pros: hohe Qualität
@@ -117,9 +117,6 @@ Ergebnisse Phase 1
   mehrerer Clips (die durch den jeweilig letzten Frame generiert wurden) kann erreicht werden. 
   - Zugriff über Discord
 
-## instaVerse (1)
-
-- Image to immmersive 3D environment
 
 ## [genmo](https://www.genmo.ai) (2)
 
@@ -224,10 +221,10 @@ Ergebnisse Phase 1
 - Audiomaterial muss vorhanden sein
 
 
-
 ## Animated Drawings (1)
 
 - Drawing/Image to goofy animation 
+
 
 ## SadTalker (1)
 
@@ -242,6 +239,15 @@ Ergebnisse Phase 1
 ## Nyx Model (1)
 
 - Removing Compression Artifacts
+
+
+## instaVerse (1)
+
+- Image to immmersive 3D environment
+- Offenbar werden keine 3D-Modelle generiert sondern nur irgendein Text-to-Image-Tool verwendet, um Texturen für vorgefertigte 3D-Modelle zu texturieren
+
+
+
 
 --------------------------------------------------
 
