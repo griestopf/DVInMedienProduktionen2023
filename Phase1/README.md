@@ -196,7 +196,7 @@ Ergebnisse Phase 1
 - Preis: KOSTENLOS
 
 
-## [Eleven Labsa](https://elevenlabs.io) (2)
+## [Eleven Labs](https://elevenlabs.io) (2)
 
 - Text-to-Voice
 - Einfach zu bedienen
