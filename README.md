@@ -77,12 +77,12 @@ Einsatz von KI-Tools an zentralen Stellen
 
 - Vorstellen der Projektidee, der einzusetzenden Tools, der angedachten Vorgehensweise und der Arbeitsaufteilung in der Gruppe
 
-#### Treffen 4 (27. November 23)
+#### Treffen 4 (4. Dezember 23)
 
 - Zwischenstand, Probleme, Lösungen
 - Preview einzelner Teil-Ergebnisse
 
-#### Treffen 5 (11. Dezember 23)
+#### Treffen 5 (18. Dezember 23)
 
 - Vorstellung erreichter Stand, muss nicht final sein
 - Reflexion der Arbeit: Lief nach Plan / Lief aus dem Ruder
